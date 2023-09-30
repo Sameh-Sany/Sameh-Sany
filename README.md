@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Sameh Sany
 
-I'm a passionate backend engineer with a love for creating robust and scalable software solutions. With [X] years of experience in the tech industry, I specialise in designing and developing backend systems that power web and mobile applications.
+I'm a passionate backend engineer with a love for creating robust and scalable software solutions. With 2 years of experience in the tech industry, I specialise in designing and developing backend systems that power web and mobile applications.
 
 #### 💼 Current Work
 
