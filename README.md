@@ -10,7 +10,7 @@ I'm a passionate backend engineer with a love for creating robust and scalable s
 
 🌐 My technical expertise includes:
 
-- 🖥️ Backend Technologies: Node.js, Express.js , JavaScript, TypeScript 
+- 🖥️ Backend Technologies: Node.js, Express.js , JavaScript, TypeScript, Nest.js
 - 🛠️ Databases: Mysql, PostgreSQL, MongoDB, Redis
 - 📡 API Development: Creating RESTful and GraphQL APIs
 - 🚀 Performance Optimisation: Ensuring fast and efficient backend systems
