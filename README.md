@@ -11,12 +11,13 @@ I'm a passionate backend engineer with a love for creating robust and scalable s
 🌐 My technical expertise includes:
 
 - 🖥️ Backend Technologies: Node.js, Express.js , JavaScript, TypeScript, Nest.js
-- 🛠️ Databases: Mysql, PostgreSQL, MongoDB, Redis
-- 📡 API Development: Creating RESTful 
+- 🛠️ Databases: MongoDB, Redis, Mysql, PostgreSQL
+- ☁️ Cloud Services: Amazon Web Services (AWS) - EC2, S3, Route 53, ECS, RDS, and more 
+- 📡 API Development: Creating RESTful apis
 - 🚀 Performance Optimisation: Ensuring fast and efficient backend systems
 - 🔒 Security: Implementing authentication and authorization mechanisms
-- 📈 Scalability: Designing for horizontal scalability and load balancing
-- ☁️ Cloud Services: Amazon Web Services (AWS) - EC2, S3, Route 53, ECS, RDS, and more 
+- 📈 Scalability: Designing for vertical and horizontal scalability and load balancing
+
 
 #### 📚 Learning and Growth
 
